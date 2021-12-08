@@ -19,7 +19,7 @@ was solved by keeping track of every cube rotation and it's corresponding axis.
 
 Basic UML diagram of how the Point Converter interacts with various parts of 
 the project.
-![alt text](https://imgur.com/a/oUIGPKY)
+![alt text](https://i.imgur.com/l1Watzc.jpg)
 
 ## 2D Representation
 The cube was also expressed in a 2D representation using a 6x3x3 array of shorts.
